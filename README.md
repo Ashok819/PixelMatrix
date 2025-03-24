@@ -1,2 +1,2 @@
 # PixelMatrix
-Converting images to Numbers
+Converting image to Numbers
